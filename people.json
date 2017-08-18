@@ -1,0 +1,6 @@
+{"people":[
+    { "firstName":"Name", "lastName":"Surname", "phoneNumber":"+999999999999", "emailAddress":"someone@somewhere.at", "imageUrl":"img/test.png", "description":"this is a general description" },
+    { "firstName":"Name", "lastName":"Surname", "phoneNumber":"+999999999999", "emailAddress":"someone@somewhere.at", "imageUrl":"img/test.png", "description":"this is a general description" },
+    { "firstName":"Name", "lastName":"Surname", "phoneNumber":"+999999999999", "emailAddress":"someone@somewhere.at", "imageUrl":"img/test.png", "description":"this is a general description" },
+	{ "firstName":"Name", "lastName":"Surname", "phoneNumber":"+999999999999", "emailAddress":"someone@somewhere.at", "imageUrl":"img/test.png", "description":"this is a general description" }
+]}
